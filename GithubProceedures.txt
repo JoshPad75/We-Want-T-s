@@ -1,0 +1,19 @@
+# 1. Go on GitHub.com amd go to the Golf Platoon and fork over the file to your depoitory
+
+# 2. Clone down the repository to your desktop       [git clone + the copied URL code form your repository site] 
+# 3. Now that the file is downloaded, open the file in VS code. Remember, if you cannot located the file on your desktop, open finder and look through your downloads.
+
+# 3. Checkout a new branch                           [git checkout -b + PAIR_YOUR_GITHUB_USERNAME)
+
+# Notice when you checkout a new branch from the master, your Github user name has now replaced master at the bottom.
+
+# 4. Check the status of the cloned file so far.     [git status]
+# 5. Add the changes.                                [git add + Name of File found in git status]
+# 5. When using the git add step remember to type in the name exactly how it is shown in the status menu.
+
+# 6. Commit the changes, then add your message       [git commit -m + "MESSAGE" ]
+# 8. Push the changes up to Github                   [git push origin + NAME_OF_BRANCH/GITHUB_USERNAME]
+
+# 9. [Go back to gitHub.com/Code Platoon/File that was forked over] and Open a pull request.
+# 9. At this point you can type in a message that pertains to the changes that you have made with the file that you are ppushing up for review.
+
